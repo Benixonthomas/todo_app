@@ -1,0 +1,9 @@
+Django==3.2.10
+gunicorn==20.1.0
+mysql-connector==2.2.9
+mysql-connector-python==8.2.0
+platformdirs==4.0.0
+protobuf==4.21.12
+PyMySQL==1.1.0
+sqlparse==0.4.4
+
